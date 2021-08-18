@@ -7,8 +7,8 @@ This account was established in April 2021 and is in operation
 Here are some ideas to get you started:
 -->
 
-- 🔭 I work as a Service Quality Assurance (SQA) at a Japanese internet service company.
-- 🌱 I’m currently learning in detail how to develop a web service to become familiar with the development team
+- 🔭 I work as a Service Quality Assurance (SQA) Engineer at a internet service company in Japan.
+- 🌱 I’m currently learning how to develop a web service to become familiar with the development team
 - 😄 To see Portfolio: https://grayfox1031.github.io/
 - 📫 How to reach me: iamgrayfox1031@gmail.com
 
