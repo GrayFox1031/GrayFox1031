@@ -8,7 +8,9 @@ This account was established in April 2021 and is in operated
 - 📫 How to reach me: iamgrayfox1031@gmail.com
 
 [Important]
+
 This account has nothing to do with my main job
+
 Also, all activities of this account are carried out outside business hours
 
 
