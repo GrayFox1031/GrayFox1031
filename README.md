@@ -1,5 +1,5 @@
+[Main information]
 This account was established in April 2021 and is in operated
-
 - I work as a Service Quality Assurance (SQA) Engineer at a internet service company in Japan
 - Personally, I’m currently learning how to develop a web service to become familiar with the development team
 - To see Portfolio-> https://grayfox1031.github.io/ (Now under construction...)
